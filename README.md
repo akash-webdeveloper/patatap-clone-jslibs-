@@ -7,4 +7,4 @@ This is a just try to make a clone web app of Patatap app
 
 ## Original site
 ```
-Visit Original Site [patatap](https://patatap.com/)
+Visit Original Site [ptp](https://patatap.com/)
