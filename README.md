@@ -1,8 +1,10 @@
-Neuronal Synchrony
-==================
+## Patatap clone using paper js and howler js
 
-A collection of two dimensional animations that are triggered by sound.
+```
+This is a just try to make a clone web app of Patatap app
 
-(c) 2012 - 2013 [jonobr1](http://jonobr1.com/). Freely distributed under the [MIT License](http://opensource.org/licenses/MIT).
+```
 
-Prototyped with [Processing](http://processing.org/), built with [JavaScript](http://jonobr1.github.com/two.js).
+## Original site
+```
+Visit Original Site [patatap](https://patatap.com/)
